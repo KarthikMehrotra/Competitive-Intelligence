@@ -1,0 +1,51 @@
+company_name,url,time_published,topic,relevance_score,ticker,ticker_relevance_score,ticker_sentiment_score,ticker_sentiment_label
+Apple,https://www.cnbc.com/2023/06/08/jim-cramer-im-not-ready-to-buy-this-stock-thats-falling-on-a-downgrade.html,20230608T162039,Retail & Wholesale,0.25,MSFT,0.229149,0.152038,Somewhat-Bullish
+Apple,https://www.zacks.com/stock/news/2105836/5-momentum-etfs-that-you-can-bet-on,20230608T152500,Technology,0.25,MSFT,0.082535,0.070264,Neutral
+Apple,https://www.benzinga.com/markets/23/06/32781608/treading-water-oh-canada-despite-ottawas-surprise-rate-hike-market-still-expecting-u-s-rate-pause,20230608T152209,Technology,0.333333,MSFT,0.063369,-0.027103,Neutral
+Apple,https://www.cnn.com/2023/06/08/investing/premarket-stocks-trading/index.html,20230608T125100,Technology,0.2,WHR,0.059121,-0.110999,Neutral
+Apple,https://www.fool.com/investing/2023/06/08/better-buy-apple-vs-amazon/,20230608T124500,Economy - Monetary,0.310843,AAPL,0.525907,0.448561,Bullish
+Apple,https://www.fool.com/investing/2023/06/08/3-nasdaq-stocks-that-have-generated-10x-returns-in/,20230608T124200,Life Sciences,0.333333,IDXX,0.156461,0.18385,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/06/08/2-unbelievable-growth-stocks-to-scoop-up-right-now/,20230608T120000,Earnings,0.310843,AAPL,0.446457,0.200335,Somewhat-Bullish
+Apple,https://www.moneycontrol.com/news/opinion/sp-500s-tech-heavy-top-is-a-feature-not-a-bug-10766071.html,20230608T115928,Financial Markets,0.839681,MSFT,0.041538,0.063223,Neutral
+Apple,https://www.fool.com/investing/2023/06/08/prediction-these-will-4-most-valuable-stocks-2040/,20230608T114500,IPO,0.310843,NVDA,0.204647,0.245688,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/06/08/2-stocks-to-invest-in-virtual-reality/,20230608T105500,Financial Markets,0.266143,AMD,0.369946,0.511393,Bullish
+Apple,https://www.reuters.com/markets/us/futures-muted-bond-yields-rise-rate-jitters-2023-06-08/,20230608T103600,Economy - Monetary,0.890401,MSFT,0.07157,-0.15912,Somewhat-Bearish
+Apple,https://www.fool.com/investing/2023/06/08/3-top-metaverse-stocks-to-buy-in-june/,20230608T102500,Earnings,0.796627,META,0.210092,0.156315,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/06/08/is-it-too-late-to-buy-unity-software-stock/,20230608T095800,IPO,0.310843,HPNN,0.045743,0.155202,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/06/08/wall-street-stock-warren-buffett-make-money/,20230608T095200,Financial Markets,0.503496,OXY,0.120733,-0.027085,Neutral
+Apple,https://www.fool.com/investing/2023/06/08/my-top-3-dividend-stocks-to-buy-now/,20230608T093700,Retail & Wholesale,0.5,SBUX,0.425925,0.351201,Bullish
+Apple,https://www.fool.com/investing/2023/06/08/2-large-cap-tech-stocks-billionaires-buy-1-avoid/,20230608T092100,Economy - Monetary,0.158519,AMD,0.033846,0.075411,Neutral
+Apple,https://www.investors.com/research/apple-stock-microsoft-walmart-among-stocks-funds-keep-buying/,20230607T193700,Retail & Wholesale,0.5,MSFT,0.29234,0.261111,Somewhat-Bullish
+Apple,https://www.investors.com/news/technology/apple-stock-investor-focus-shifts-to-iphone-15/,20230607T192500,Earnings,0.108179,AAPL,0.854393,0.271824,Somewhat-Bullish
+Apple,https://www.forbes.com/sites/moneyshow/2023/06/07/three-tech-plays-for-a-thriving-tech-driven-market/,20230607T184634,Financial Markets,0.997405,MSFT,0.075754,0.085869,Neutral
+Apple,https://www.marketwatch.com/story/you-are-now-bettingone-sixthof-your-retirement-portfolio-on-tvs-jim-cramer-7c27e02c,20230607T175400,Retail & Wholesale,0.333333,MSFT,0.08282,0.238105,Somewhat-Bullish
+Apple,https://www.marketwatch.com/story/lionel-messi-to-join-mlss-inter-miami-reports-say-e48eff72,20230607T163000,Earnings,0.108179,AAPL,0.780579,0.243041,Somewhat-Bullish
+Apple,https://www.zacks.com/stock/news/2105255/cisco-csco-expands-security-portfolio-with-new-sse-offering,20230607T161100,Earnings,0.576289,META,0.107736,0.171216,Somewhat-Bullish
+Apple,https://www.benzinga.com/markets/23/06/32762085/treading-water-markets-in-consolidation-mode-near-recent-highs-as-catalysts-remain-thin,20230607T154224,Technology,0.25,MSFT,0.091075,0.03169,Neutral
+Apple,https://www.zacks.com/stock/news/2105279/netflixs-nflx-expanding-games-portfolio-aids-prospects,20230607T153200,Earnings,0.310843,GLYYY,0.072217,0.173693,Somewhat-Bullish
+Apple,https://www.zacks.com/stock/news/2105173/3d-systems-ddd-up-154-since-last-earnings-report-can-it-continue,20230607T153041,Earnings,0.996718,DDD,0.528121,0.069409,Neutral
+Apple,https://pennystocks.com/featured/2023/06/07/best-penny-stocks-to-buy-5-with-big-news-this-week-june-2023/,20230607T151658,Life Sciences,0.25,MSFT,0.082393,-0.019495,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/stock-market-trims-gains-as-small-caps-jump-tesla-goes-on-amazing-run-and-apple-gets-bullish-call/,20230607T143200,Energy & Transportation,0.25,DKNG,0.102231,0.239837,Somewhat-Bullish
+Apple,https://moneymorning.com/2023/06/07/postcards-this-value-strategy-is-great-for-finding-breakouts/,20230607T140507,Retail & Wholesale,0.333333,SKYW,0.154951,0.068744,Neutral
+Apple,https://www.zacks.com/stock/news/2105109/sp-500-in-tug-of-war-between-bulls-and-bears-etfs-in-play,20230607T140500,Technology,0.25,MSFT,0.075874,0.114456,Neutral
+Apple,https://www.benzinga.com/23/06/32758927/the-s-p-index-has-clearly-broken-through-4200-where-to-now-a-multi-time-frame-review,20230607T140229,Economy - Monetary,0.769861,MSFT,0.106305,0.21739,Somewhat-Bullish
+Apple,https://www.marketwatch.com/story/how-apples-stock-can-hit-220-according-to-wall-streets-most-bullish-analyst-1051f1dc,20230607T135100,Earnings,0.108179,AAPL,0.662393,0.522703,Bullish
+Apple,https://www.fool.com/investing/2023/06/07/is-apple-stock-overpriced-its-vision-pro-headset/,20230607T134037,Earnings,0.839681,AAPL,0.817578,0.240124,Somewhat-Bullish
+Apple,https://www.benzinga.com/news/23/06/32753999/bullish-on-iphone-15-cycle-wedbushs-ives-further-raises-apple-price-target,20230607T105024,Earnings,0.108179,AAPL,0.733479,0.34043,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/06/07/2-best-hot-stocks-to-buy-in-june/,20230607T102000,Economy - Monetary,0.158519,AAPL,0.383905,0.389663,Bullish
+Apple,https://www.benzinga.com/news/earnings/23/06/32753592/market-volatility-drops-ahead-of-inflation-data-s-p-500-settles-slightly-higher,20230607T101939,Economy - Monetary,0.310843,AAPL,0.343279,0.465938,Bullish
+Apple,https://www.fool.com/investing/2023/06/07/cook-calls-vision-pro-tomorrows-engineering-now/,20230607T100000,Earnings,0.684621,META,0.067919,0.06469,Neutral
+Apple,https://www.fool.com/investing/2023/06/07/the-role-of-technology-in-mastercards-future-growt/,20230607T100000,Economy - Monetary,0.451494,PYPL,0.075635,0.046646,Neutral
+Apple,https://www.moneycontrol.com/news/business/markets/us-stocks-end-up-as-fed-cpi-loom-large-next-week-10754741.html,20230607T004148,Technology,0.333333,AMD,0.090134,0.0,Neutral
+Apple,https://www.marketwatch.com/story/big-tech-bulks-up-in-s-p-500-in-2023-outweighing-indexs-energy-sector-datatrek-says-543234be,20230606T202300,Retail & Wholesale,0.333333,MSFT,0.235062,0.0,Neutral
+Apple,https://www.marketwatch.com/story/these-stocks-can-play-catch-up-with-megacap-tech-lifting-the-s-p-500-stifels-bannister-7328ac4f,20230606T172800,Economy - Monetary,0.769861,MSFT,0.113329,0.165376,Somewhat-Bullish
+Apple,https://www.zacks.com/stock/news/2104629/apple-aapl-unveils-mixed-reality-device-vision-pro-at-wwdc23,20230606T163400,Earnings,0.360215,MSFT,0.148273,0.205869,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/06/06/want-to-get-richer-2-unstoppable-growth-stocks-you/,20230606T153900,Earnings,0.905476,MSFT,0.046724,0.121195,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-pauses-this-ai-play-surges-on-earnings-as-coinbase-craters-on-sec-probe/,20230606T145200,Energy & Transportation,0.25,CIEN,0.127795,0.109333,Neutral
+Apple,https://www.investors.com/dow-jones-pauses-this-ai-play-surges-on-earnings-as-coinbase-craters-on-sec-probe/,20230606T145200,Energy & Transportation,0.25,ARES,0.101367,-0.074559,Neutral
+Apple,https://www.benzinga.com/markets/options/23/06/32739006/apple-unusual-options-activity-for-june-06,20230606T141638,Financial Markets,0.266143,WFC,0.111488,-0.134407,Neutral
+Apple,https://www.benzinga.com/news/23/06/32734282/tsmc-reduces-2023-capex-outlook-foresees-substantial-growth-starting-2024,20230606T132411,Financial Markets,0.108179,NVDA,0.240489,0.039062,Neutral
+Apple,https://www.benzinga.com/news/23/06/32734282/tsmc-slashes-2023-capex-outlook-foresees-substantial-growth-starting-2024,20230606T132411,Financial Markets,0.108179,NVDA,0.240489,0.039062,Neutral
+Apple,https://www.cnbc.com/2023/06/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html,20230606T131047,Energy & Transportation,0.2,AAPL,0.165788,0.127421,Neutral
+Apple,https://www.fool.com/investing/2023/06/06/can-apples-new-vr-headset-reignite-the-metaverse-b/,20230606T122800,Earnings,0.684621,META,0.175221,0.066037,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-hot-ai-stock-mobileye-skids-on-secondary-offering/,20230606T122700,Financial Markets,1.0,AAPL,0.072876,-0.085583,Neutral

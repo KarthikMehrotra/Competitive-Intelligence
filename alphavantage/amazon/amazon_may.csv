@@ -1,0 +1,51 @@
+company_name,url,time_published,topic,relevance_score,ticker,ticker_relevance_score,ticker_sentiment_score,ticker_sentiment_label
+Amazon,https://www.fool.com/investing/2023/06/08/better-buy-apple-vs-amazon/,20230608T124500,Economy - Monetary,0.310843,AAPL,0.525907,0.448561,Bullish
+Amazon,https://www.fool.com/investing/2023/06/08/prediction-these-will-4-most-valuable-stocks-2040/,20230608T114500,IPO,0.310843,NVDA,0.204647,0.245688,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/06/08/amazon-stock-is-up-50-this-year-is-it-still-a-buy/,20230608T113000,Earnings,0.904684,TRMNF,0.055751,0.089591,Neutral
+Amazon,https://www.benzinga.com/news/23/06/32773072/balancing-profitability-and-entertainment-amazon-considers-launching-ad-supported-prime-video-tier,20230608T110941,Earnings,0.108179,NFLX,0.213988,0.227338,Somewhat-Bullish
+Amazon,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-as-market-rally-turns-upside-down-gamestop-dives-late/,20230607T215600,Life Sciences,0.25,MSFT,0.12455,-0.075311,Neutral
+Amazon,https://www.investors.com/market-trend/stock-market-today/nasdaq-skids-but-these-areas-run-meme-stock-gamestop-dives-on-miss-ceo-ouster/,20230607T204400,Life Sciences,0.25,MSFT,0.12455,-0.075311,Neutral
+Amazon,https://www.marketwatch.com/story/you-are-now-bettingone-sixthof-your-retirement-portfolio-on-tvs-jim-cramer-7c27e02c,20230607T175400,Retail & Wholesale,0.333333,MSFT,0.08282,0.238105,Somewhat-Bullish
+Amazon,https://www.benzinga.com/markets/23/06/32762085/treading-water-markets-in-consolidation-mode-near-recent-highs-as-catalysts-remain-thin,20230607T154224,Technology,0.25,MSFT,0.091075,0.03169,Neutral
+Amazon,https://moneymorning.com/2023/06/07/postcards-this-value-strategy-is-great-for-finding-breakouts/,20230607T140507,Retail & Wholesale,0.333333,SKYW,0.154951,0.068744,Neutral
+Amazon,https://www.zacks.com/stock/news/2105109/sp-500-in-tug-of-war-between-bulls-and-bears-etfs-in-play,20230607T140500,Technology,0.25,MSFT,0.075874,0.114456,Neutral
+Amazon,https://www.marketwatch.com/story/amazon-needs-a-significant-amount-of-self-help-to-boost-its-stock-analyst-ebd997da,20230607T132700,Retail & Wholesale,0.5,SHOP,0.059194,0.105039,Neutral
+Amazon,https://markets.businessinsider.com/news/stocks/ai-stock-picks-how-to-invest-artificial-intelligence-baron-funds-2023-6,20230607T122424,Retail & Wholesale,0.333333,MSFT,0.425925,0.470124,Bullish
+Amazon,https://stocknews.com/news/amzn-trvg-tzoo-yelp-vz-t-tmus-buy-or-hold-this-week-amazon-com-amzn/,20230607T115752,Retail & Wholesale,0.5,TMUS,0.094204,-0.051058,Neutral
+Amazon,https://www.fool.com/investing/2023/06/07/3-growth-stocks-to-buy-in-june/,20230607T114500,Retail & Wholesale,0.5,ROKU,0.189298,0.11295,Neutral
+Amazon,https://www.benzinga.com/news/23/06/32752448/salesforces-musical-chairs-ceo-marc-benioff-shuffles-top-executives-amid-slow-growth,20230607T113238,Retail & Wholesale,0.5,ORCL,0.368773,0.0,Neutral
+Amazon,https://www.businessinsider.com/ai-stock-picks-how-to-invest-artificial-intelligence-baron-funds-2023-6,20230607T103000,Retail & Wholesale,0.333333,MSFT,0.425925,0.470124,Bullish
+Amazon,https://www.fool.com/investing/2023/06/07/new-sp-500-bull-market-no-brainer-stocks-buy/,20230607T095200,Life Sciences,0.166667,OXY,0.069294,0.121508,Neutral
+Amazon,https://www.fool.com/investing/2023/06/07/1-faang-stock-surefire-buy-in-june-and-1-to-avoid/,20230607T090600,Retail & Wholesale,0.5,NFLX,0.327366,0.201465,Somewhat-Bullish
+Amazon,https://www.zacks.com/commentary/2104775/2-foreign-stocks-to-buy-for-grade-a-growth,20230606T235800,Earnings,0.967321,BABA,0.283323,0.150891,Somewhat-Bullish
+Amazon,https://www.marketwatch.com/story/big-tech-bulks-up-in-s-p-500-in-2023-outweighing-indexs-energy-sector-datatrek-says-543234be,20230606T202300,Retail & Wholesale,0.333333,MSFT,0.235062,0.0,Neutral
+Amazon,https://www.marketwatch.com/story/why-bud-light-isnt-an-investment-slam-dunkyet-3e7c9160,20230606T170300,Retail & Wholesale,0.5,BUD,0.12546,0.044234,Neutral
+Amazon,https://www.benzinga.com/markets/23/06/32741767/early-pressure-develops-as-market-bumps-against-key-resistance-following-sharp-rally,20230606T155935,Technology,0.25,MSFT,0.082181,0.054212,Neutral
+Amazon,https://www.zacks.com/stock/news/2104357/investors-heavily-search-amazoncom-inc-amzn-here-is-what-you-need-to-know,20230606T130011,Earnings,1.0,AMZN,0.527831,0.153668,Somewhat-Bullish
+Amazon,https://www.marketwatch.com/story/at-t-stock-nabs-a-lukewarm-upgrade-were-not-optimists-8229e672,20230606T114500,Retail & Wholesale,0.5,TMUS,0.165598,0.128996,Neutral
+Amazon,https://www.fool.com/investing/2023/06/06/warren-buffett-stocks-buy-hand-over-fist-in-june/,20230606T092000,Retail & Wholesale,0.333333,MVES,0.047092,0.125563,Neutral
+Amazon,https://www.fool.com/investing/2023/06/06/got-1000-2-smart-growth-stocks-to-buy-without-hesi/,20230606T091500,Earnings,0.875462,CHWY,0.180124,0.166404,Somewhat-Bullish
+Amazon,https://markets.businessinsider.com/news/stocks/a-unique-way-to-play-the-coming-700-billion-electric-vehicle-boom-1032371523,20230606T000300,Economy - Monetary,0.158519,VMAR,0.055907,0.097119,Neutral
+Amazon,https://www.benzinga.com/news/23/06/32717969/whats-going-on-with-amazon-stock-monday,20230605T154010,Retail & Wholesale,0.333333,NFLX,0.133841,-0.271484,Somewhat-Bearish
+Amazon,https://www.benzinga.com/news/23/06/32717314/whats-going-on-with-at-t-shares,20230605T151857,Retail & Wholesale,0.5,T,0.530253,-0.188502,Somewhat-Bearish
+Amazon,https://www.fool.com/investing/2023/06/05/2-soaring-healthcare-stocks-that-could-climb-even/,20230605T102700,Retail & Wholesale,0.5,VEEV,0.17715,0.113082,Neutral
+Amazon,https://www.fool.com/investing/2023/06/05/how-far-will-100-month-investing-in-sp-500/,20230605T093000,Retail & Wholesale,0.5,KO,0.078611,0.048625,Neutral
+Amazon,https://www.marketwatch.com/story/big-tech-is-driving-corporate-earnings-and-buoying-expectations-for-coming-months-b66b2c0c,20230604T171400,Economy - Monetary,0.158519,JWN,0.109206,0.07955,Neutral
+Amazon,https://www.fool.com/investing/2023/06/04/warren-buffett-over-166-billion-on-ai-stocks/,20230604T102000,Retail & Wholesale,0.333333,MSFT,0.043264,0.010934,Neutral
+Amazon,https://www.marketwatch.com/story/too-much-debt-coming-due-and-not-much-cash-on-hand-these-10-companies-face-a-rough-year-ahead-f8f38b3b,20230603T183000,Life Sciences,0.166667,MSTR,0.081001,0.048799,Neutral
+Amazon,https://www.fool.com/investing/2023/06/03/is-amazon-stock-a-buy-now/,20230603T160000,Retail & Wholesale,0.5,MSFT,0.058047,0.026025,Neutral
+Amazon,https://www.fool.com/investing/2023/06/03/1-major-reason-comcasts-ceo-is-excited-about-strea/,20230603T151500,Earnings,0.360215,TMUS,0.112797,0.222056,Somewhat-Bullish
+Amazon,https://www.benzinga.com/trading-ideas/long-ideas/23/06/32697301/benzinga-bulls-and-bears-lululemon-amazon-palantir-and-did-elon-musk-overpay-for-twitter,20230603T140253,Retail & Wholesale,0.25,LULU,0.142144,0.315524,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/06/03/microsoft-tesla-amazon-110-sp-500-ai-2-stocks-buy/,20230603T122000,Retail & Wholesale,0.333333,AMD,0.277658,0.207414,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/06/03/want-1-million-in-retirement-invest-250000-in-thes/,20230603T114500,Life Sciences,0.5,VRTX,0.316168,0.230526,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/06/03/3-spectacular-stocks-soar-bull-market/,20230603T114200,Economy - Monetary,0.451494,ROKU,0.354066,0.139671,Neutral
+Amazon,https://www.fool.com/investing/2023/06/03/tech-companies-have-lots-of-news-for-their-investo/,20230603T113000,Energy & Transportation,0.2,NFLX,0.017194,0.025789,Neutral
+Amazon,https://www.businessinsider.com/investing-stocks-to-buy-now-market-rally-outlook-prediction-bmo-2023-6,20230603T100000,Retail & Wholesale,0.333333,MSFT,0.164468,0.110523,Neutral
+Amazon,https://markets.businessinsider.com/news/stocks/investing-stocks-to-buy-now-market-rally-outlook-prediction-bmo-2023-6,20230603T100000,Retail & Wholesale,0.333333,MSFT,0.164468,0.110523,Neutral
+Amazon,https://www.marketwatch.com/story/palo-alto-networks-stock-rallies-on-s-p-500-inclusion-c43eb034,20230602T235700,Life Sciences,0.2,ZUMZ,0.158,-0.03272,Neutral
+Amazon,https://www.zacks.com/stock/news/2103463/amazon-amzn-gains-but-lags-market-what-you-should-know,20230602T214512,Earnings,0.95493,AMZN,0.624172,0.304312,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/06/02/why-att-verizon-and-t-mobile-stocks-were-sinking-t/,20230602T201635,Retail & Wholesale,0.5,DISH,0.186738,0.126987,Neutral
+Amazon,https://www.forbes.com/sites/seanhanlon-1/2023/06/02/is-the-market-running-out-of-breadth/,20230602T184739,Economy - Monetary,0.158519,MSFT,0.107656,0.019614,Neutral
+Amazon,https://www.investors.com/market-trend/stock-market-today/stock-market-on-track-for-weekly-gains-lululemon-jumps-after-earnings/,20230602T180500,Life Sciences,0.2,PATH,0.148961,0.130114,Neutral
+Amazon,https://www.zacks.com/stock/news/2103330/tripadvisor-trip-down-06-since-last-earnings-report-can-it-rebound,20230602T153130,Retail & Wholesale,0.5,AMZN,0.22335,0.02556,Neutral
+Amazon,https://www.investors.com/news/technology/amzn-stock-possible-amazon-entry-into-wireless-services-sends-telecom-stocks-down/,20230602T144800,Retail & Wholesale,0.5,TMUS,0.287762,-0.002212,Neutral

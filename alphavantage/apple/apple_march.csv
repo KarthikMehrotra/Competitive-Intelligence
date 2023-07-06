@@ -1,0 +1,51 @@
+company_name,url,time_published,topic,relevance_score,ticker,ticker_relevance_score,ticker_sentiment_score,ticker_sentiment_label
+Apple,https://www.prnewswire.com/news-releases/mobile-value-added-services-vas-market-size-to-grow-by-usd-723-25-billion-between-2022-and-2027-growth-driven-by-the-rapid-increase-in-smartphone-penetration---technavio-301790724.html,20230408T010000,Earnings,0.796627,T,0.030408,0.062281,Neutral
+Apple,https://www.fool.com/investing/2023/04/07/is-lumentum-stock-a-buy-now/,20230407T135952,Financial Markets,0.684621,CIEN,0.26042,-0.029751,Neutral
+Apple,https://www.investors.com/etfs-and-funds/etfs/best-etfs-billion-money-manager-shares-offbeat-stock-picks/,20230407T110000,Technology,0.25,RS,0.114956,0.055466,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-tesla-cuts-u-s-ev-prices-again/,20230407T100400,Life Sciences,0.2,BABA,0.137474,-0.057578,Neutral
+Apple,https://www.fool.com/investing/2023/04/07/2-stocks-53-warren-buffett-342-billion-portfolio/,20230407T090600,Economy - Monetary,0.682689,BAC,0.182506,0.092119,Neutral
+Apple,https://www.barrons.com/articles/tech-stocks-earnings-preview-2424eeae,20230407T070000,Economy - Monetary,0.451494,MSFT,0.472338,0.316081,Somewhat-Bullish
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-rebounds-into-jobs-report-google-alibaba-flash-buy-signals/,20230407T021800,Life Sciences,0.2,BABA,0.092213,-0.042947,Neutral
+Apple,https://www.zacks.com/stock/news/2075775/banking-crisis-implications-for-etf-investors,20230406T205000,Economy - Monetary,0.158519,MSFT,0.169676,-0.251266,Somewhat-Bearish
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-off-lows-as-fed-james-bullard-says-this-data-weakens-of-key-jobs-report-amc-stock-soars-apple-stock-microsoft-stock-costco-stock/,20230406T190300,Life Sciences,0.2,MSFT,0.185662,0.062792,Neutral
+Apple,https://www.zacks.com/stock/news/2075762/netflix-nflx-expands-international-content-with-stolen,20230406T184100,Earnings,0.310843,NFLX,0.551009,0.340172,Somewhat-Bullish
+Apple,https://www.benzinga.com/news/earnings/23/04/31702245/q1-earnings-preview-more-pain-seen-for-bottom-lines-as-inflation-high-rates-raise-pressure,20230406T165537,Energy & Transportation,0.25,MSFT,0.051551,-0.202534,Somewhat-Bearish
+Apple,https://www.benzinga.com/news/23/04/31700177/re-rating-disney-analysts-eye-dtc-victory-with-pixar-lucas-and-marvel-in-its-corner,20230406T160155,Earnings,0.360215,MSFT,0.155451,0.069841,Neutral
+Apple,https://www.marketwatch.com/story/cienas-stock-pares-losses-as-company-reiterates-forecast-after-lumentum-warning-cff7cf9d,20230406T143000,Financial Markets,0.360215,CIEN,0.890832,0.01257,Neutral
+Apple,https://www.fool.com/investing/2023/04/06/1-valuable-growth-investors-learned-svb-collapse/,20230406T125900,Economy - Monetary,0.310843,MSFT,0.151301,0.166443,Somewhat-Bullish
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-jobless-claims-costco-slides-on-surprise-sales-drop/,20230406T122000,Energy & Transportation,0.2,AAPL,0.129516,-0.07573,Neutral
+Apple,https://www.reuters.com/markets/us/futures-muted-focus-shifts-jobs-data-amid-recession-fears-2023-04-06/,20230406T102500,Economy - Monetary,0.769861,NVDA,0.115232,0.066216,Neutral
+Apple,https://www.zacks.com/stock/news/2075299/should-wisdomtree-us-total-dividend-etf-dtd-be-on-your-investing-radar,20230406T102007,Financial Markets,1,MSFT,0.12546,0.069101,Neutral
+Apple,https://www.benzinga.com/news/earnings/23/04/31693068/s-p-500-settles-lower-market-volatility-rises,20230406T093216,Financial Markets,0.538269,AAPL,0.325208,-0.048057,Neutral
+Apple,https://www.fool.com/investing/2023/04/06/how-to-find-undervalued-stocks-heres-where-i-start/,20230406T091700,Financial Markets,0.999966,MSFT,0.060388,0.017035,Neutral
+Apple,https://www.fool.com/investing/2023/04/06/1-faang-stock-to-buy-in-april-1-avoid-like-plague/,20230406T090600,Economy - Monetary,0.310843,NFLX,0.057352,0.077985,Neutral
+Apple,https://www.fool.com/investing/2023/04/06/wall-street-q1-hot-technology-stocks/,20230406T090500,IPO,0.158519,AAPL,0.038906,0.095415,Neutral
+Apple,https://www.barrons.com/articles/apple-stock-price-earnings-late-900904f,20230406T054500,Earnings,0.158519,AAPL,0.933751,-0.269234,Somewhat-Bearish
+Apple,https://www.benzinga.com/news/23/04/31690716/tesla-apple-scilex-holding-plug-power-costco-why-these-5-stocks-are-drawing-investors-attention-toda,20230406T012115,Retail & Wholesale,0.25,AAPL,0.210274,0.138374,Neutral
+Apple,https://www.fool.com/investing/2023/04/05/why-apple-stock-was-down-on-wednesday/,20230405T213700,Economy - Monetary,0.158519,BAC,0.107978,0.14608,Neutral
+Apple,https://www.marketwatch.com/story/megacap-growth-and-tech-stocks-may-extend-recent-uptrend-driven-by-earnings-beats-and-rising-forward-estimates-deutsche-bank-21c93084,20230405T173900,Economy - Monetary,0.576289,META,0.122894,0.128234,Neutral
+Apple,https://www.marketwatch.com/story/mccarthy-to-meet-taiwans-leader-while-key-house-panel-talks-with-disneys-iger-and-apples-cook-about-chinas-growing-influence-b66eccee,20230405T163000,Earnings,0.108179,MSFT,0.261117,0,Neutral
+Apple,https://www.marketwatch.com/story/meta-stock-upgraded-once-again-after-some-of-the-deepest-cost-cuts-in-tech-c4f62ba4,20230405T162600,Financial Markets,0.266143,META,0.199859,0.243025,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/04/05/why-universal-display-stock-gained-14-last-month/,20230405T153934,Financial Markets,0.316726,SNEJF,0.078611,0.023395,Neutral
+Apple,https://www.fool.com/investing/2023/04/05/stocks-warren-buffett-largest-ai-investments/,20230405T140043,Financial Markets,0.658903,MSFT,0.047092,0.115678,Neutral
+Apple,https://www.zacks.com/stock/news/2074789/is-most-watched-stock-apple-inc-aapl-worth-betting-on-now,20230405T130013,Earnings,0.999999,AAPL,0.518333,0.164516,Somewhat-Bullish
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-adp-jobs-data-c3-ai-extends-losses-after-short-seller-letter/,20230405T122100,Life Sciences,0.2,AAPL,0.119383,0.105772,Neutral
+Apple,https://www.fool.com/investing/2023/04/05/apple-stock-bear-vs-bull/,20230405T120000,Economy - Monetary,0.158519,MSFT,0.057628,0.005001,Neutral
+Apple,https://www.cnn.com/2023/04/05/investing/premarket-stocks-trading/index.html,20230405T113300,Life Sciences,0.166667,APO,0.036255,0,Neutral
+Apple,https://www.zacks.com/stock/news/2074660/should-invesco-ftse-rafi-us-1000-etf-prf-be-on-your-investing-radar,20230405T102007,Financial Markets,1,AAPL,0.119235,0.074376,Neutral
+Apple,https://www.fool.com/investing/2023/04/05/the-surprising-reason-the-dow-jones-industrials-ro/,20230405T094500,Financial Markets,0.684621,MSFT,0.269033,0.197006,Somewhat-Bullish
+Apple,https://www.forbes.com/sites/greatspeculations/2023/04/05/whats-new-with-apple-stock/,20230405T090000,Economy - Monetary,0.576289,AAPL,0.894489,-0.004223,Neutral
+Apple,https://www.zacks.com/stock/news/2074642/2-growth-mutual-funds-to-buy-as-bank-meltdown-fears-ebb,20230405T083900,Economy - Monetary,0.310843,MSFT,0.053271,0.064725,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stock-keeps-sliding-johnson-and-johnson-rises/,20230405T020900,Life Sciences,0.25,MSFT,0.126918,-0.041018,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-falls-on-recession-fears-ai-stock-crashes-many-groups-sell-off/,20230404T205500,Life Sciences,0.25,MSFT,0.128272,-0.041241,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-falls-on-cooling-data-amc-plunges-on-ape-conversion/,20230404T174600,Energy & Transportation,0.2,VORB,0.149656,-0.507303,Bearish
+Apple,https://www.benzinga.com/markets/23/04/31659441/job-openings-in-spotlight-as-market-continues-to-climb-ladder-amid-receding-fears,20230404T150436,Technology,0.25,MSFT,0.038284,0.106228,Neutral
+Apple,https://www.benzinga.com/markets/options/23/04/31657694/check-out-what-whales-are-doing-with-aapl,20230404T140054,Financial Markets,0.214378,GS,0.109455,0,Neutral
+Apple,https://www.zacks.com/stock/news/2074247/wall-street-analysts-think-apple-aapl-is-a-good-investment-is-it,20230404T133007,Earnings,0.890401,AAPL,0.362254,0.172472,Somewhat-Bullish
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-economic-data-tesla-bounces-amid-china-sales/,20230404T121900,Financial Markets,1,MSFT,0.182736,0.154733,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/04/04/paypal-near-its-cheapest-valuation-over-the-last-1/,20230404T110000,Economy - Monetary,0.158519,PYPL,0.552443,0.422574,Bullish
+Apple,https://www.fool.com/investing/2023/04/04/2024-make-or-break-year-for-meta-reality-labs/,20230404T094000,Earnings,0.972756,META,0.120733,0,Neutral
+Apple,https://www.zacks.com/stock/news/2074068/the-zacks-analyst-blog-highlights-apple-meta-platforms-visa-united-parcel-service-and-caterpillar,20230404T091700,Economy - Monetary,0.158519,META,0.337197,0.174817,Somewhat-Bullish
+Apple,https://www.prnewswire.com/news-releases/iot-in-healthcare-market-size-growing-at-19-20--cagr-set-to-reach-usd-388-18-billion-by-2027-says-brandessence-market-research-301789350.html,20230404T084600,Life Sciences,0.333333,ACB,0.029256,0.139885,Neutral
+Apple,https://markets.businessinsider.com/news/stocks/apple-acuity-brands-and-3-stocks-to-watch-heading-into-tuesday-1032212799,20230404T080012,Retail & Wholesale,0.333333,AYI,0.297661,0.061565,Neutral
+Apple,https://www.benzinga.com/news/earnings/23/04/31648888/apple-acuity-brands-and-3-stocks-to-watch-heading-into-tuesday,20230404T080011,Retail & Wholesale,0.333333,AYI,0.448842,0.368027,Bullish

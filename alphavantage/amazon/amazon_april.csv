@@ -1,0 +1,51 @@
+company_name,url,time_published,topic,relevance_score,ticker,ticker_relevance_score,ticker_sentiment_score,ticker_sentiment_label
+Amazon,https://www.fool.com/investing/2023/05/07/is-it-too-late-to-buy-shopify-stock/,20230507T121000,Economy - Monetary,0.310843,SHOP,0.486544,-0.012667,Neutral
+Amazon,https://www.benzinga.com/markets/penny-stocks/23/05/32247243/exclusive-top-10-most-searched-tickers-on-benzinga-pro-in-april-including-tesla-first-republ,20230506T183721,Life Sciences,0.25,MSFT,0.145145,0.094479,Neutral
+Amazon,https://www.benzinga.com/trading-ideas/long-ideas/23/05/32242513/benzinga-bulls-and-bears-shopify-uber-pacwest-and-meta-braces-for-challenger-offering-16,20230506T170332,Economy - Monetary,0.451494,SHOP,0.212425,-0.12569,Neutral
+Amazon,https://www.fool.com/investing/2023/05/06/amazon-quietly-acquired-an-ai-company-last-year-he/,20230506T100000,Retail & Wholesale,0.5,SPOT,0.046363,0.082752,Neutral
+Amazon,https://www.zacks.com/commentary/2091169/time-to-buy-alphabet-and-amazon-stock-after-q1-earnings,20230505T221700,Earnings,0.998932,AMZN,0.298567,0.207884,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/05/faang-stock-is-once-in-a-decade-buy-in-recession/,20230505T210000,Economy - Monetary,0.310843,BABA,0.05339,0.142867,Neutral
+Amazon,https://www.fool.com/investing/2023/05/05/3-top-tech-stocks-to-buy-during-a-recession/,20230505T200000,Economy - Monetary,0.451494,ADI,0.246582,0.278582,Somewhat-Bullish
+Amazon,https://www.zacks.com/stock/news/2091012/zlndy-vs-amzn-which-stock-is-the-better-value-option,20230505T154011,Earnings,0.890401,AMZN,0.694939,0.603034,Bullish
+Amazon,https://www.zacks.com/stock/news/2090887/is-amazoncom-amzn-stock-outpacing-its-retail-wholesale-peers-this-year,20230505T134012,Earnings,0.614606,ORLY,0.380012,0.10738,Neutral
+Amazon,https://www.fool.com/investing/2023/05/05/looking-to-invest-1000-this-month-2-stocks-to-buy/,20230505T132700,Retail & Wholesale,0.5,MSFT,0.13873,0.058318,Neutral
+Amazon,https://www.fool.com/investing/2023/05/05/2-reasons-to-buy-amazon-stock-before-it-skyrockets/,20230505T123000,Economy - Monetary,0.310843,AMZN,0.568819,0.433999,Bullish
+Amazon,https://www.zacks.com/stock/news/2090818/5-attractive-large-cap-stocks-to-buy-despite-recession-fears,20230505T120300,Economy - Monetary,0.576289,ZS,0.250386,0.24473,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/05/3-warren-buffett-growth-stocks-to-buy-in-may/,20230505T115834,IPO,0.310843,SNOW,0.230892,0.076595,Neutral
+Amazon,https://www.fool.com/investing/2023/05/05/is-amazon-a-better-ai-stock-than-microsoft/,20230505T093000,Economy - Monetary,0.158519,MSFT,0.395792,0.013984,Neutral
+Amazon,https://www.fool.com/investing/2023/05/05/is-transmedics-group-stock-a-buy-on-the-dip/,20230505T092300,Life Sciences,0.5,AMZN,0.059341,0.016008,Neutral
+Amazon,https://www.zacks.com/stock/news/2090614/time-to-invest-in-the-growth-of-fintech,20230505T033900,IPO,0.158519,PYPL,0.435433,0.264769,Somewhat-Bullish
+Amazon,https://www.investors.com/news/technology/space-race-draws-entrepreneurs-into-crowded-final-frontier/,20230504T210000,Energy & Transportation,0.2,LMT,0.037761,0.002903,Neutral
+Amazon,https://www.benzinga.com/news/earnings/23/05/32223405/shopify-stock-is-shredding-sellers-sprinting-higher-why-jim-cramer-says-the-e-commerce-company-is-a,20230504T202044,Retail & Wholesale,0.5,SHOP,0.833178,0.186976,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/04/shopify-is-selling-its-logistics-business-to-doubl/,20230504T191733,Retail & Wholesale,0.5,SHOP,0.791422,0.317378,Somewhat-Bullish
+Amazon,https://www.investors.com/research/ibd-stock-of-the-day/dt-stock-dynatrace-ramps-up-automation-ai-tools-in-observability-battle/,20230504T185500,IPO,0.310843,DT,0.863469,0.238891,Somewhat-Bullish
+Amazon,https://www.marketwatch.com/story/datadog-stock-advances-after-earnings-beat-91f2d733,20230504T140700,Retail & Wholesale,0.5,AMZN,0.262522,0.182225,Somewhat-Bullish
+Amazon,https://www.zacks.com/stock/news/2090071/how-much-upside-is-left-in-amazon-amzn-wall-street-analysts-think-3728,20230504T135513,Earnings,0.795202,AMZN,0.288214,0.370018,Bullish
+Amazon,https://www.fool.com/investing/2023/05/04/2-top-growth-stocks-to-buy-now-and-hold/,20230504T131600,Earnings,0.918141,MSFT,0.096866,0.163652,Somewhat-Bullish
+Amazon,https://www.forbes.com/sites/greatspeculations/2023/05/04/amazon-stock-is-undervalued/,20230504T120036,Retail & Wholesale,0.5,RIVN,0.139265,0.160424,Somewhat-Bullish
+Amazon,https://www.investors.com/news/technology/ddog-stock-datadog-earnings-q12023/,20230504T113500,Retail & Wholesale,0.5,AMZN,0.280615,-0.344158,Somewhat-Bearish
+Amazon,https://www.fool.com/investing/2023/05/04/big-companies-are-winning-this-earnings-season/,20230504T111500,Retail & Wholesale,0.333333,MSFT,0.093813,0.070388,Neutral
+Amazon,https://www.fool.com/investing/2023/05/04/amazons-stock-looks-like-a-bargain-heres-why-its-t/,20230504T104500,Earnings,0.214378,AMZN,0.693563,0.225637,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/04/2-growth-stocks-that-are-screaming-buys-in-may/,20230504T103100,Technology,0.25,MSFT,0.050044,0.192249,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/04/3-things-about-amazon-that-smart-investors-know/,20230504T092500,Economy - Monetary,0.451494,AMZN,0.581269,0.043391,Neutral
+Amazon,https://www.fool.com/investing/2023/05/04/3-best-cloud-stocks-to-buy-in-may/,20230504T090700,Earnings,0.684621,MSFT,0.054359,-0.002003,Neutral
+Amazon,https://www.zacks.com/stock/news/2089523/time-to-buy-apple-stock-for-more-upside-as-earnings-approach,20230503T223900,Economy - Monetary,0.158519,MSFT,0.187705,0.122643,Neutral
+Amazon,https://www.zacks.com/stock/news/2089299/looking-for-a-growth-stock-3-reasons-why-amazon-amzn-is-a-solid-choice,20230503T164506,Earnings,0.983783,AMZN,0.570165,0.526828,Bullish
+Amazon,https://www.zacks.com/stock/news/2089222/what-lies-ahead-for-apple-etfs-in-fiscal-q2-earnings,20230503T160000,Retail & Wholesale,0.5,MSFT,0.097655,0.054777,Neutral
+Amazon,https://www.fool.com/investing/2023/05/03/2-stocks-to-buy-that-can-survive-any-recession/,20230503T140000,Economy - Monetary,0.310843,AMZN,0.359447,0.16876,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/03/3-things-smart-investors-learned-amazons-q1-report/,20230503T134500,Economy - Monetary,0.158519,DTST,0.060085,0.097837,Neutral
+Amazon,https://www.fool.com/investing/2023/05/03/3-growth-stocks-star-performers-april-still-buys/,20230503T132100,Economy - Monetary,0.158519,MSFT,0.321273,0.263284,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/03/ai-and-e-commerce-amazon-leverages-ai-growth/,20230503T122500,Earnings,0.684621,AMZN,0.651499,0.288451,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/03/2-stocks-will-be-worth-3-trillion-besides-apple/,20230503T120500,Economy - Monetary,0.158519,MSFT,0.420083,0.307599,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/05/03/whats-going-on-with-amazon-stock/,20230503T120000,Earnings,0.158519,AMZN,0.9545,-0.255235,Somewhat-Bearish
+Amazon,https://www.fool.com/investing/2023/05/03/is-amazon-losing-edge-in-cloud-computing/,20230503T111000,Earnings,0.538269,MSFT,0.243498,0.035745,Neutral
+Amazon,https://www.fool.com/investing/2023/05/03/worried-about-a-recession-heres-warren-buffetts-be/,20230503T101500,Economy - Monetary,0.451494,NYT,0.053992,0.025119,Neutral
+Amazon,https://www.fool.com/investing/2023/05/03/2-signs-that-amazons-aws-is-set-to-win/,20230503T093000,Earnings,0.495866,AMZN,0.628304,0.418092,Bullish
+Amazon,https://www.fool.com/investing/2023/05/03/fed-expects-recession-2-faang-stocks-to-buy-now/,20230503T091800,Economy - Monetary,0.451494,GOOG,0.488217,0.375535,Bullish
+Amazon,https://www.fool.com/investing/2023/05/03/want-to-get-richer-3-top-stocks-to-buy-now-and-hol/,20230503T090700,Economy - Monetary,0.310843,AMD,0.054857,0.143841,Neutral
+Amazon,https://www.fool.com/investing/2023/05/03/3-best-tech-stocks-to-buy-in-may/,20230503T090500,Economy - Monetary,0.310843,AMD,0.431371,0.404648,Bullish
+Amazon,https://www.investors.com/research/amazon-this-is-what-sp-500-earnings-would-look-like-without-amzn/,20230502T180300,Retail & Wholesale,0.5,FDS,0.078354,0.083124,Neutral
+Amazon,https://www.zacks.com/stock/news/2088364/etfs-to-bet-on-mega-cap-tech-stocks,20230502T163600,Retail & Wholesale,0.333333,MSFT,0.280615,0.442176,Bullish
+Amazon,https://www.fool.com/investing/2023/05/02/2-top-stocks-to-buy-during-a-bear-market-and-its/,20230502T133700,Earnings,0.858979,AMZN,0.304679,0.041047,Neutral
+Amazon,https://www.zacks.com/stock/news/2088045/amazon-amzn-is-considered-a-good-investment-by-brokers-is-that-true,20230502T133007,Earnings,0.938238,AMZN,0.364529,0.239941,Somewhat-Bullish
+Amazon,https://www.benzinga.com/23/05/32160350/cloud-and-e-commerce-growth-slowdown-overshadow-amazons-quarterly-results,20230502T132403,Earnings,0.928769,MSFT,0.22335,0.027352,Neutral

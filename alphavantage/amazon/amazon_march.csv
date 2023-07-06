@@ -1,0 +1,51 @@
+company_name,url,time_published,topic,relevance_score,ticker,ticker_relevance_score,ticker_sentiment_score,ticker_sentiment_label
+Amazon,https://www.investors.com/research/ai-stock-gains-after-response-to-short-seller-is-ai-stock-a-buy/,20230407T154800,Retail & Wholesale,0.5,BKR,0.208017,-0.062906,Neutral
+Amazon,https://www.cnbc.com/2023/04/07/14-stocks-set-to-buck-the-trend-of-declining-earnings-this-season.html,20230407T112711,Retail & Wholesale,0.333333,AMZN,0.922387,0.0,Neutral
+Amazon,https://www.benzinga.com/news/earnings/23/04/31702245/q1-earnings-preview-more-pain-seen-for-bottom-lines-as-inflation-high-rates-raise-pressure,20230406T165537,Energy & Transportation,0.25,MSFT,0.051551,-0.202534,Somewhat-Bearish
+Amazon,https://www.benzinga.com/23/04/31699233/walgreens-continues-pushing-into-healthcare-despite-fierce-competition,20230406T143249,Life Sciences,0.5,CVS,0.142989,0.164908,Somewhat-Bullish
+Amazon,https://www.zacks.com/stock/news/2075578/3-tech-stocks-under-10-to-add-to-your-portfolio-currently,20230406T135700,Economy - Monetary,0.310843,MOMO,0.12023,0.101322,Neutral
+Amazon,https://www.fool.com/investing/2023/04/06/a-bull-market-is-coming-2-magnificent-faang-stocks/,20230406T134500,Economy - Monetary,0.158519,NFLX,0.047278,-0.003,Neutral
+Amazon,https://www.fool.com/investing/2023/04/06/lyft-stock-still-isnt-a-buy-until-new-ceo-david-ri/,20230406T103800,Earnings,0.108179,MSFT,0.057352,0.011003,Neutral
+Amazon,https://www.fool.com/investing/2023/04/06/elon-musk-pause-ai-but-these-3-stocks-wont-stop/,20230406T101500,Retail & Wholesale,0.333333,MSFT,0.047092,-0.019906,Neutral
+Amazon,https://www.fool.com/investing/2023/04/06/3-automation-stocks-to-buy-hand-over-fist-in-april/,20230406T100300,Life Sciences,0.333333,CGNX,0.206245,0.235636,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/04/06/better-cloud-stock-amazon-vs-digitalocean/,20230406T093800,Technology,0.333333,RIVN,0.047092,-0.072745,Neutral
+Amazon,https://www.fool.com/investing/2023/04/06/this-top-stock-could-supercharge-your-portfolio/,20230406T090800,Economy - Monetary,0.158519,AMZN,0.07031,0.088393,Neutral
+Amazon,https://www.fool.com/investing/2023/04/06/1-faang-stock-to-buy-in-april-1-avoid-like-plague/,20230406T090600,Economy - Monetary,0.310843,NFLX,0.057352,0.077985,Neutral
+Amazon,https://www.fool.com/investing/2023/04/06/wall-street-q1-hot-technology-stocks/,20230406T090500,IPO,0.158519,AAPL,0.038906,0.095415,Neutral
+Amazon,https://www.cnbc.com/2023/04/05/wall-street-sees-big-growth-for-amazon-but-it-needs-to-cut-costs.html,20230405T195702,Earnings,0.158519,AMZN,0.9545,0.236266,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/04/05/buy-this-monster-stock-before-it-pops/,20230405T180000,Economy - Monetary,0.310843,DTST,0.056808,0.156079,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/04/05/a-bull-market-is-coming-1-supercharged-growth-stoc/,20230405T174752,Economy - Monetary,0.158519,PYPL,0.574866,0.426665,Bullish
+Amazon,https://www.investors.com/news/walmart-stock-buy-zone-dow-giant-automates-operations-to-boost-long-term-profits/,20230405T165700,Economy - Monetary,0.310843,AMZN,0.108712,0.168435,Somewhat-Bullish
+Amazon,https://www.zacks.com/stock/news/2075066/fair-isaac-fico-increases-potential-with-12-patent-grants,20230405T162400,Retail & Wholesale,0.5,AMZN,0.186259,0.287478,Somewhat-Bullish
+Amazon,https://www.zacks.com/stock/news/2074790/amazoncom-inc-amzn-is-attracting-investor-attention-here-is-what-you-should-know,20230405T130013,Earnings,0.999999,AMZN,0.484798,0.15493,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/04/05/a-bull-market-is-coming-1-magnificent-growth-stock/,20230405T124500,Economy - Monetary,0.310843,RIVN,0.063258,-0.063702,Neutral
+Amazon,https://www.cnn.com/2023/04/05/investing/premarket-stocks-trading/index.html,20230405T113300,Life Sciences,0.166667,APO,0.036255,0.0,Neutral
+Amazon,https://www.fool.com/investing/2023/04/05/2-nasdaq-stocks-im-buying-til-im-blue-in-the-face/,20230405T092000,Retail & Wholesale,0.5,MSFT,0.062761,0.278528,Somewhat-Bullish
+Amazon,https://www.cnn.com/2023/04/04/business/walmart-warehouse-layoffs/index.html,20230404T164300,Earnings,0.158519,AMZN,0.321673,-0.32097,Somewhat-Bearish
+Amazon,https://www.fool.com/investing/2023/04/04/amazon-is-making-one-thing-clear-cash-is-king/,20230404T160000,Economy - Monetary,0.158519,MSFT,0.046363,-0.040259,Neutral
+Amazon,https://stockmarket.com/featured/best-ai-stocks-to-buy-now-3-in-focus-2023-04-04,20230404T140631,Retail & Wholesale,0.333333,ADBE,0.458708,0.58133,Bullish
+Amazon,https://www.fool.com/investing/2023/04/04/got-5000-2-tech-stocks-to-buy-and-hold-for-the-lon/,20230404T120000,Retail & Wholesale,0.5,MSFT,0.053153,0.080986,Neutral
+Amazon,https://www.benzinga.com/news/23/04/31649111/walmarts-job-cuts-to-affect-2-000-positions-in-its-e-commerce-warehouses-report,20230404T091134,Earnings,0.158519,AMZN,0.366061,-0.504777,Bearish
+Amazon,https://www.zacks.com/stock/news/2074061/zacks-industry-outlook-highlights-sp-global-experian-and-intertek,20230404T084200,Retail & Wholesale,0.5,III,0.200355,0.095348,Neutral
+Amazon,https://www.zacks.com/stock/news/2073969/amazon-amzn-stock-sinks-as-market-gains-what-you-should-know,20230403T214521,Earnings,0.983783,AMZN,0.625937,0.219209,Somewhat-Bullish
+Amazon,https://www.benzinga.com/news/earnings/23/04/31639146/first-quarter-rewind-whats-ahead-for-tech-in-q2,20230403T181443,Economy - Monetary,0.158519,MSFT,0.117486,0.213079,Somewhat-Bullish
+Amazon,https://www.investors.com/research/software-stock-hits-a-buy-point-explosive-eps-growth-expected/,20230403T173300,Economy - Monetary,0.158519,PD,0.486857,0.034785,Neutral
+Amazon,https://www.zacks.com/commentary/2073798/3-business-information-stocks-to-watch-amid-industry-woes,20230403T163900,Retail & Wholesale,0.5,III,0.21193,0.115061,Neutral
+Amazon,https://www.fool.com/investing/2023/04/03/3-top-growth-stocks-that-are-screaming-buys-now/,20230403T145355,Economy - Monetary,0.310843,MSFT,0.30158,0.058757,Neutral
+Amazon,https://www.zacks.com/stock/news/2073831/netflix-nflx-releases-its-korean-action-film-kill-boksoon,20230403T144400,Earnings,0.495866,NFLX,0.772057,0.418785,Bullish
+Amazon,https://www.fool.com/investing/2023/04/03/better-buy-roku-vs-netflix/,20230403T103000,Retail & Wholesale,0.5,NFLX,0.60415,0.337929,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/04/03/bull-market-coming-2-growth-stocks-to-buy-now/,20230403T091500,Economy - Monetary,0.576289,HUBS,0.423054,0.492195,Bullish
+Amazon,https://www.fool.com/investing/2023/04/02/is-it-too-late-to-buy-c3ai-stock/,20230402T164100,Retail & Wholesale,0.5,MSFT,0.11983,0.133909,Neutral
+Amazon,https://www.fool.com/investing/2023/04/02/3-ai-stocks-you-cant-afford-to-miss/,20230402T123000,Economy - Monetary,0.158519,LRCX,0.141061,0.095435,Neutral
+Amazon,https://www.fool.com/investing/2023/04/02/the-trade-desk-stock-is-up-over-30-this-year-is-it/,20230402T112100,Retail & Wholesale,0.5,GOOG,0.035138,-0.021991,Neutral
+Amazon,https://www.kiplinger.com/investing/stocks/value-investing-is-back,20230401T133000,Life Sciences,0.166667,META,0.076277,0.17671,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/04/01/1-area-amazon-could-save-on-costs-and-boost-profit/,20230401T113000,Earnings,0.650727,AMZN,0.863793,0.607067,Bullish
+Amazon,https://www.fool.com/investing/how-to-invest/what-to-invest-in/research-and-development/,20230401T025400,Retail & Wholesale,0.5,MSFT,0.069394,0.09061,Neutral
+Amazon,https://www.fool.com/investing/2023/03/31/dont-wait-until-the-dip-is-over-to-buy-these-2-mag/,20230331T214600,Retail & Wholesale,0.25,GOOG,0.337811,0.241335,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-databricks/,20230331T210601,IPO,0.972193,SNOW,0.17715,0.131747,Neutral
+Amazon,https://www.fool.com/terms/n/net-income/,20230331T203933,IPO,0.158519,AMZN,0.179121,0.050877,Neutral
+Amazon,https://www.zacks.com/stock/news/2073017/will-layoffs-by-big-tech-players-hurt-ethical-ai-development,20230331T135600,Economy - Monetary,0.158519,MSFT,0.385286,0.102438,Neutral
+Amazon,https://www.marketwatch.com/story/new-lyft-ceos-unusual-pay-structure-is-a-sign-of-the-times-bbc2bbd4,20230331T113300,IPO,0.158519,MSFT,0.188683,0.189394,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/03/31/stag-industrial-is-a-buy-for-2023-and-beyond/,20230331T101500,Economy - Monetary,0.158519,PLD,0.064797,0.155254,Somewhat-Bullish
+Amazon,https://www.fool.com/investing/2023/03/31/5-bargain-basement-stocks-to-buy-right-now/,20230331T093000,Economy - Monetary,0.310843,VRTX,0.037563,0.009785,Neutral
+Amazon,https://www.benzinga.com/markets/23/03/31586531/rolling-along-late-quarter-rally-gains-steam-as-banking-fears-continue-to-dissipate,20230330T151125,Technology,0.333333,YUM,0.038101,0.0,Neutral

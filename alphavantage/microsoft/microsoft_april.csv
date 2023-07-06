@@ -1,0 +1,51 @@
+company_name,url,time_published,topic,relevance_score,ticker,ticker_relevance_score,ticker_sentiment_score,ticker_sentiment_label
+Microsoft,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-roars-dont-go-wild-amd-stock-near-buy-point/,20230507T232300,Financial Markets,1.0,DKNG,0.044019,-0.103043,Neutral
+Microsoft,https://www.marketwatch.com/story/big-tech-has-made-earnings-look-better-but-here-come-disney-and-paypal-5aa3f694,20230507T174500,Earnings,0.158519,MSFT,0.428632,0.416378,Bullish
+Microsoft,https://www.economist.com/finance-and-economics/2023/05/07/your-job-is-probably-safe-from-artificial-intelligence,20230507T161657,Economy - Monetary,0.158519,EXPE,0.013209,0.055047,Neutral
+Microsoft,https://www.fool.com/investing/2023/05/07/ai-could-be-a-14-trillion-opportunity-by-2030-here/,20230507T115200,Life Sciences,0.5,MSFT,0.354319,0.335447,Somewhat-Bullish
+Microsoft,https://www.fool.com/investing/2023/05/07/1-stock-apple-microsoft-amazon-alphabet-1-trillion/,20230507T113500,Financial Markets,0.316726,AMD,0.549174,0.397822,Bullish
+Microsoft,https://www.fool.com/investing/2023/05/07/microsoft-stock-bear-vs-bull/,20230507T112100,Earnings,0.795202,MSFT,0.364987,0.126381,Neutral
+Microsoft,https://www.benzinga.com/markets/penny-stocks/23/05/32247243/exclusive-top-10-most-searched-tickers-on-benzinga-pro-in-april-including-tesla-first-republ,20230506T183721,Life Sciences,0.25,MSFT,0.145145,0.094479,Neutral
+Microsoft,https://www.investors.com/news/amd-stock-ai-play-and-new-sp-500-member-lead-5-stocks-near-buy-points/,20230506T131900,Life Sciences,0.25,DT,0.291904,0.145836,Neutral
+Microsoft,https://www.cnbc.com/2023/05/06/how-a-22-year-old-earned-2-million-dollars-in-scholarships-graduated-debt-free.html,20230506T130001,Financial Markets,0.684621,GRPN,0.024749,0.162637,Somewhat-Bullish
+Microsoft,https://www.fool.com/investing/2023/05/06/top-ai-stock-tanked-earnings-time-to-buy-dip/,20230506T113500,IPO,0.158519,MSFT,0.112269,0.071877,Neutral
+Microsoft,https://www.benzinga.com/news/23/05/32252792/mark-zuckerberg-snubbed-for-white-house-ai-summit-team-biden-says-event-limited-to-firms-currently-l,20230506T083744,Financial Markets,0.108179,MSFT,0.241684,0.0,Neutral
+Microsoft,https://www.marketwatch.com/story/amd-stock-ends-week-higher-as-post-earnings-loss-erased-by-microsoft-ai-hopes-b3415742,20230505T214600,Earnings,0.310843,AMD,0.943189,-0.127943,Neutral
+Microsoft,https://www.zacks.com/stock/news/2091181/3-tech-titans-battling-for-ai-dominance,20230505T211300,Financial Markets,0.108179,AMD,0.143415,0.091354,Neutral
+Microsoft,https://www.investors.com/market-trend/stock-market-today/dow-jones-roars-back-but-dont-go-wild-warren-buffett-berkshire-hathaway/,20230505T211100,Financial Markets,1.0,DKNG,0.04794,-0.103905,Neutral
+Microsoft,https://www.investors.com/research/investing-action-plan/stock-market-action-plan-inflation-banks-disney-and-buffetts-take-on-oxy-pete/,20230505T192900,Life Sciences,0.142857,LL,0.042647,-0.01595,Neutral
+Microsoft,https://www.forbes.com/sites/seanhanlon-1/2023/05/05/resilient-earnings-are-a-positive-sign/,20230505T190515,Economy - Monetary,0.576289,BBBY,0.038717,-0.04012,Neutral
+Microsoft,https://www.business-standard.com/world-news/here-s-how-ai-is-once-again-putting-tech-companies-in-the-hiring-mood-123050501182_1.html,20230505T181714,Earnings,0.158519,MSFT,0.050254,0.014975,Neutral
+Microsoft,https://www.investors.com/news/market-rally-finishes-strong-regional-banks-fed-rate-hike-jobs-report-apple-in-focus/,20230505T171600,Life Sciences,0.142857,PACW,0.061662,-0.118251,Neutral
+Microsoft,https://www.cnbc.com/2023/05/05/stocks-making-the-biggest-moves-midday-apple-lyft-carvana-vf-corp-and-more.html,20230505T170537,Financial Markets,0.365926,MSFT,0.088147,0.07432,Neutral
+Microsoft,https://www.zacks.com/stock/news/2091121/onto-onto-q1-earnings-top-estimates-revenues-fall-yy,20230505T163500,Earnings,0.99999,MSFT,0.306007,0.274518,Somewhat-Bullish
+Microsoft,https://www.zacks.com/research-daily/2090939/top-analyst-reports-for-exxon-mobil-costco-activision-blizzard,20230505T154400,Retail & Wholesale,0.333333,ATVI,0.103778,-0.002246,Neutral
+Microsoft,https://www.benzinga.com/news/23/05/32240009/whats-going-on-with-amd-stock-friday,20230505T151500,Financial Markets,0.108179,AMD,0.901338,0.679362,Bullish
+Microsoft,https://www.zacks.com/stock/news/2090981/why-are-tech-stocks-doing-so-well-this-year,20230505T150900,Earnings,0.999954,MSFT,0.234911,0.214542,Somewhat-Bullish
+Microsoft,https://www.prnewswire.com/news-releases/nlp-in-education-market-worth-228-million-by-2028---exclusive-report-by-marketsandmarkets-301816904.html,20230505T150000,Earnings,0.161647,MSFT,0.124164,0.126507,Neutral
+Microsoft,https://www.benzinga.com/markets/options/23/05/32239624/check-out-what-whales-are-doing-with-msft,20230505T140116,Financial Markets,0.214378,MSFT,0.915019,0.311624,Somewhat-Bullish
+Microsoft,https://www.forbes.com/sites/qai/2023/05/05/new-economic-data-suggests-a-recession-is-getting-closer-but-q1-earnings-season-starts-strongforbes-ai-newsletter-april-29th/,20230505T135327,Technology,0.25,GOOG,0.035241,0.086539,Neutral
+Microsoft,https://www.zacks.com/stock/news/2090972/itron-itri-q1-earnings-revenues-beat-estimates-rise-yy,20230505T135300,Life Sciences,0.5,ITRI,0.454511,0.204389,Somewhat-Bullish
+Microsoft,https://www.fool.com/investing/2023/05/05/looking-to-invest-1000-this-month-2-stocks-to-buy/,20230505T132700,Retail & Wholesale,0.5,MSFT,0.13873,0.058318,Neutral
+Microsoft,https://www.cnbc.com/2023/05/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html,20230505T132617,Financial Markets,0.972756,AAPL,0.266101,0.193811,Somewhat-Bullish
+Microsoft,https://www.fool.com/investing/2023/05/05/microsoft-is-the-clear-leader-in-the-ai-space-will/,20230505T131500,Earnings,0.94762,MSFT,0.12645,-0.035296,Neutral
+Microsoft,https://www.fool.com/investing/2023/05/05/missed-out-c3ai-my-best-ai-stock-to-buy-and-hold/,20230505T130350,IPO,0.451494,ATVI,0.05833,0.191311,Somewhat-Bullish
+Microsoft,https://www.forbes.com/sites/jjkinahan/2023/05/05/apple-beats-while-employment-number-comes-in-stronger-than-expected/,20230505T130237,Economy - Monetary,0.158519,MSFT,0.069094,-0.027142,Neutral
+Microsoft,https://www.businessinsider.com/openai-2022-losses-hit-540-million-as-chatgpt-costs-soared-2023-5,20230505T125100,Earnings,0.108179,MSFT,0.091162,0.063279,Neutral
+Microsoft,https://www.fool.com/investing/2023/05/05/missed-out-on-chatgpt-mania-my-2-best-ai-stocks-to/,20230505T121500,Financial Markets,0.796627,MSFT,0.072876,0.164734,Somewhat-Bullish
+Microsoft,https://www.nytimes.com/2023/05/05/business/dealbook/jobs-report.html,20230505T120514,Economy - Monetary,0.769861,BABA,0.023909,0.0,Neutral
+Microsoft,https://theweek.com/briefing/business-briefing/1023265/the-daily-business-briefing-may-5-2023,20230505T112310,Earnings,0.938793,MDNDF,0.18967,0.100676,Neutral
+Microsoft,https://www.investors.com/etfs-and-funds/etfs/stock-market-investors-shake-off-headwinds-in-april-and-stay-the-course/,20230505T110000,Economy - Monetary,0.310843,BLK,0.040829,0.162834,Somewhat-Bullish
+Microsoft,https://www.investors.com/etfs-and-funds/mutual-funds/top-mutual-fund-manager-buys-growth-without-paying-up/,20230505T110000,Life Sciences,0.166667,MSFT,0.103331,-0.015443,Neutral
+Microsoft,https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-bet-bet-billions-on-these-10-stocks-including-microsoft-salesforce-broadcom/,20230505T104500,Life Sciences,0.2,MTH,0.102888,-0.103927,Neutral
+Microsoft,https://www.benzinga.com/markets/equities/23/05/32233352/whats-going-on-with-godaddy-shares,20230505T104321,Earnings,0.918141,MSFT,0.241684,0.254879,Somewhat-Bullish
+Microsoft,https://www.prnewswire.com/news-releases/this-week-in-tech-news-10-stories-you-need-to-see-301816595.html,20230505T103200,Financial Markets,0.158519,MSFT,0.071677,0.138934,Neutral
+Microsoft,https://www.businessinsider.com/bank-crisis-is-nowhere-near-over-just-ask-billionaire-investors-2023-5,20230505T103000,Energy & Transportation,0.25,MSFT,0.04303,0.17427,Somewhat-Bullish
+Microsoft,https://www.fool.com/investing/2023/05/05/nvidia-stock-bear-vs-bull/,20230505T094800,Financial Markets,0.266143,MSFT,0.120431,0.039863,Neutral
+Microsoft,https://www.fool.com/investing/2023/05/05/is-amazon-a-better-ai-stock-than-microsoft/,20230505T093000,Economy - Monetary,0.158519,MSFT,0.395792,0.013984,Neutral
+Microsoft,https://www.fool.com/investing/2023/05/05/3-artificial-intelligence-stocks-buy-right-now/,20230505T092000,Financial Markets,0.316726,AMD,0.510043,0.232077,Somewhat-Bullish
+Microsoft,https://www.fool.com/investing/2023/05/05/89-warren-buffett-portfolio-invested-in-11-stocks/,20230505T090600,Energy & Transportation,0.25,MSFT,0.049732,0.066992,Neutral
+Microsoft,https://www.fool.com/investing/2023/05/05/sleep-number-grown-revenue-for-shareholders-mo/,20230505T090500,Financial Markets,0.692272,MSFT,0.239541,0.350542,Bullish
+Microsoft,https://www.financialexpress.com/life/technology-apple-layoffs-a-last-resort-not-considering-it-at-the-moment-ceo-tim-cook-says-3075024/,20230505T054556,Earnings,0.614606,MSFT,0.142565,-0.056478,Neutral
+Microsoft,https://www.benzinga.com/news/23/05/32232049/apples-ai-playbook-why-tim-cook-is-not-following-the-google-and-microsoft-model,20230505T045335,Earnings,0.158519,MSFT,0.432291,0.188647,Somewhat-Bullish
+Microsoft,https://www.fool.com/earnings/call-transcripts/2023/05/04/lyft-lyft-q1-2023-earnings-call-transcript/,20230505T033050,Financial Markets,0.929393,EVR,0.006473,0.0,Neutral

@@ -1,0 +1,51 @@
+company_name,url,time_published,topic,relevance_score,ticker,ticker_relevance_score,ticker_sentiment_score,ticker_sentiment_label
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-roars-dont-go-wild-amd-stock-near-buy-point/,20230507T232300,Financial Markets,1.0,DKNG,0.044019,-0.103043,Neutral
+Apple,https://www.benzinga.com/analyst-ratings/analyst-color/23/05/32257067/apple-drums-up-emerging-focus-on-earnings-call-gurman-weighs-in-one-strategy-that-c,20230507T203334,Earnings,0.360215,AAPL,0.870862,-0.012448,Neutral
+Apple,https://www.benzinga.com/news/23/05/32256781/tim-cook-reiterates-mass-layoffs-are-a-last-resort-and-not-part-of-apples-current-plans,20230507T180136,Earnings,0.714479,AAPL,0.587597,-0.024777,Neutral
+Apple,https://www.marketwatch.com/story/big-tech-has-made-earnings-look-better-but-here-come-disney-and-paypal-5aa3f694,20230507T174500,Earnings,0.158519,MSFT,0.428632,0.416378,Bullish
+Apple,https://www.forbes.com/sites/bill_stone/2023/05/07/highlights-from-warren-buffett-and-berkshire-hathaways-2023-annual-meeting/,20230507T142050,Financial Markets,0.999365,OXY,0.137148,0.06364,Neutral
+Apple,https://www.fool.com/investing/2023/05/07/munger-advice-value-invest-berkshire-buffett/,20230507T124800,IPO,0.158519,AAPL,0.082963,0.086296,Neutral
+Apple,https://www.fool.com/investing/2023/05/07/3-no-brainer-warren-buffett-stocks-to-buy-right-no/,20230507T113000,Energy & Transportation,0.25,AAPL,0.051999,0.213622,Somewhat-Bullish
+Apple,https://www.financialexpress.com/life/technology-tim-cook-says-apple-to-add-ai-to-products-on-thoughtful-basis-know-more-details-3078356/,20230507T074115,Earnings,0.158519,GOOG,0.230235,-0.008825,Neutral
+Apple,https://www.reuters.com/business/buffetts-berkshire-posts-355-bln-profit-buys-back-more-stock-2023-05-07/,20230507T022600,Financial Markets,0.413559,OXY,0.067919,0.0,Neutral
+Apple,https://www.benzinga.com/news/23/05/32254437/barrons-weekend-stock-picks-apple-envestnet-and-the-concern-around-regional-bank-stocks,20230506T221146,Retail & Wholesale,0.25,SSTK,0.128135,0.048158,Neutral
+Apple,https://www.benzinga.com/markets/penny-stocks/23/05/32247243/exclusive-top-10-most-searched-tickers-on-benzinga-pro-in-april-including-tesla-first-republ,20230506T183721,Life Sciences,0.25,MSFT,0.145145,0.094479,Neutral
+Apple,https://www.benzinga.com/analyst-ratings/analyst-color/23/05/32254102/jim-cramer-says-dont-fall-for-the-noise-around-apple-own-it-dont-trade-it,20230506T175938,Earnings,0.158519,AAPL,0.798255,-0.073506,Neutral
+Apple,https://markets.businessinsider.com/news/stocks/benzinga-bulls-and-bears-shopify-uber-pacwest-and-meta-braces-for-challenger-offering-16-vr-headset-1032299065,20230506T170333,Economy - Monetary,0.451494,SHOP,0.128478,-0.040558,Neutral
+Apple,https://www.benzinga.com/trading-ideas/long-ideas/23/05/32242513/benzinga-bulls-and-bears-shopify-uber-pacwest-and-meta-braces-for-challenger-offering-16,20230506T170332,Economy - Monetary,0.451494,SHOP,0.212425,-0.12569,Neutral
+Apple,https://www.reuters.com/business/buffett-says-he-cannot-imagine-us-debt-default-2023-05-06/,20230506T152600,Financial Markets,0.266143,AAPL,0.078099,0.273047,Somewhat-Bullish
+Apple,https://www.financialexpress.com/business/investing-abroad-will-us-fed-keep-the-door-open-for-an-11th-straight-rate-hike-in-june-3076644/,20230506T142900,Economy - Monetary,0.890401,PACW,0.068306,-0.097249,Neutral
+Apple,https://www.fool.com/investing/2023/05/06/3-unstoppable-stocks-to-buy-in-may/,20230506T123900,IPO,0.310843,MELI,0.241284,0.136409,Neutral
+Apple,https://www.financialexpress.com/business/investing-abroad-warren-buffetts-berkshire-hathaway-releases-first-quarter-earnings-check-financials-3076704/,20230506T122610,Financial Markets,0.999999,AAPL,0.259267,0.276402,Somewhat-Bullish
+Apple,https://www.reuters.com/business/buffetts-berkshire-posts-355-bln-profit-buys-back-more-stock-2023-05-06/,20230506T122400,Financial Markets,0.108179,DSSMY,0.33628,0.0,Neutral
+Apple,https://www.financialexpress.com/business/investing-abroad-berkshire-hathaway-annual-shareholders-meeting-2023-check-date-time-of-quarterly-earnings-release-3076250/,20230506T044400,Financial Markets,0.972756,AAPL,0.287762,0.193611,Somewhat-Bullish
+Apple,https://stocknews.com/news/spy-inx-dia-iwm-qqq-profit-from-the-best-and-worst-stocks/,20230505T223550,Economy - Monetary,0.158519,AYI,0.329112,0.240663,Somewhat-Bullish
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-roars-back-but-dont-go-wild-warren-buffett-berkshire-hathaway/,20230505T211100,Financial Markets,1.0,DKNG,0.04794,-0.103905,Neutral
+Apple,https://www.kiplinger.com/investing/stocks/stock-market-today-apple-earnings-bank-stocks-spark-relief-rally,20230505T201505,Economy - Monetary,0.310843,JHG,0.064623,0.018198,Neutral
+Apple,https://www.investors.com/research/investing-action-plan/stock-market-action-plan-inflation-banks-disney-and-buffetts-take-on-oxy-pete/,20230505T192900,Life Sciences,0.142857,LL,0.042647,-0.01595,Neutral
+Apple,https://www.benzinga.com/markets/options/23/05/32246435/check-out-what-whales-are-doing-with-aapl,20230505T184600,Financial Markets,0.266143,AAPL,0.822,0.120381,Neutral
+Apple,https://www.zacks.com/commentary/2091130/dividend-watch-3-companies-boosting-payouts,20230505T184300,Retail & Wholesale,0.333333,DFS,0.463192,0.275523,Somewhat-Bullish
+Apple,https://www.benzinga.com/markets/23/05/32245643/pre-weekend-revival-resilient-jobs-report-apple-earnings-and-improvement-in-bank-stocks-lift-market,20230505T180602,Energy & Transportation,0.25,PYPL,0.082606,-0.066299,Neutral
+Apple,https://www.kiplinger.com/apple-stock-aapl-buy-earnings,20230505T180218,Financial Markets,0.999997,SPGI,0.111747,0.132977,Neutral
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-rises-as-regional-banks-rebound-coin-rises-with-warren-buffetts-berkshire-earnings-due/,20230505T175200,Life Sciences,0.2,DKNG,0.114682,0.005756,Neutral
+Apple,https://moneymorning.com/investing/buy-the-dip-because-were-never-going-down-again/,20230505T173746,Economy - Monetary,0.158519,AAPL,0.053212,0.0,Neutral
+Apple,https://www.zacks.com/stock/news/2091138/apple-aapl-q2-earnings-beat-estimates-revenues-decline-yy,20230505T172800,Financial Markets,0.158519,BLNK,0.171181,0.064914,Neutral
+Apple,https://www.investors.com/etfs-and-funds/etfs/best-etfs-this-fund-manager-searched-the-globe-and-found-this/,20230505T172700,Financial Markets,0.996718,BABA,0.076115,0.180363,Somewhat-Bullish
+Apple,https://www.benzinga.com/markets/cryptocurrency/23/05/32244700/investors-are-increasingly-overweight-tech-stocks,20230505T171618,Technology,0.333333,PACW,0.043421,0.0,Neutral
+Apple,https://www.investors.com/news/market-rally-finishes-strong-regional-banks-fed-rate-hike-jobs-report-apple-in-focus/,20230505T171600,Life Sciences,0.142857,PACW,0.061662,-0.118251,Neutral
+Apple,https://www.benzinga.com/news/earnings/23/05/32234192/us-stocks-set-to-snap-4-day-losing-streak-on-apple-earnings-regional-banks-rebound-all-eyes-now-o-1,20230505T165200,Technology,0.25,PACW,0.105372,0.074347,Neutral
+Apple,https://www.benzinga.com/analyst-ratings/analyst-color/23/05/32242716/investors-take-a-bite-out-of-apple-after-earnings-print-what-do-6-analysts-think-ab,20230505T161329,Financial Markets,0.87644,AAPL,0.436947,0.130888,Neutral
+Apple,https://www.business-standard.com/world-news/wall-street-climbs-as-investors-cheer-upbeat-apple-earnings-dow-up-1-3-123050501043_1.html,20230505T160745,Economy - Monetary,0.451494,AAPL,0.100729,0.304657,Somewhat-Bullish
+Apple,https://www.fool.com/investing/2023/05/05/why-apple-stock-rallied-friday-morning/,20230505T152530,Economy - Monetary,0.158519,AAPL,0.729067,0.252979,Somewhat-Bullish
+Apple,https://www.benzinga.com/news/23/05/32240204/warren-buffett-to-share-wisdom-with-berkshire-hathaway-shareholders-as-bank-failures-rattle-market,20230505T151930,Economy - Monetary,0.576289,BK,0.217834,0.067628,Neutral
+Apple,https://www.benzinga.com/news/23/05/32241546/apple-aig-cigna-and-other-big-stocks-moving-higher-on-friday,20230505T151216,Life Sciences,0.142857,PACW,0.101154,0.172197,Somewhat-Bullish
+Apple,https://www.business-standard.com/technology/tech-news/apple-stakes-future-growth-on-emerging-markets-starting-with-india-123050500317_1.html,20230505T145851,Earnings,0.214378,SSNLF,0.072217,0.151142,Somewhat-Bullish
+Apple,https://www.investors.com/market-trend/stock-market-today/dow-jones-rockets-higher-strong-jobs-report-bullish-earnings-movers-include-apple-draftkings-coinbase/,20230505T144400,Life Sciences,0.25,DKNG,0.101797,0.106824,Neutral
+Apple,https://markets.businessinsider.com/news/stocks/apple-earnings-iphone-slowdown-90-billion-stock-buyback-dividend-increase-2023-5,20230505T141600,Financial Markets,0.161647,GS,0.07423,0.218395,Somewhat-Bullish
+Apple,https://www.zacks.com/stock/news/2090933/take-a-bite-of-apple-with-these-etfs-post-solid-q2-earnings,20230505T141200,Earnings,0.744043,AAPL,0.652659,0.208681,Somewhat-Bullish
+Apple,https://moneymorning.com/investing/morning-update-the-jobs-report-is-out-time-to-trade-options/,20230505T140649,Economy - Monetary,0.158519,PACW,0.183895,-0.356729,Bearish
+Apple,https://www.benzinga.com/markets/cryptocurrency/23/05/32239261/amc-entertainment-warner-bros-earnings-broadcom-ceo-proposes-to-pitch-eu-regulators-over-v,20230505T135239,IPO,0.310843,APO,0.078354,0.186079,Somewhat-Bullish
+Apple,https://www.benzinga.com/23/05/32239168/apple-restores-its-iphone-superpower-in-challenging-times,20230505T134001,Economy - Monetary,0.158519,QCOM,0.252332,-0.079644,Neutral
+Apple,https://www.fool.com/investing/2023/05/05/apple-earnings-iphone-sales-hit-record-highs/,20230505T133909,Economy - Monetary,0.158519,AAPL,0.639128,0.519133,Bullish
+Apple,https://www.cnbc.com/2023/05/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html,20230505T132617,Financial Markets,0.972756,AAPL,0.266101,0.193811,Somewhat-Bullish
+Apple,https://www.investors.com/news/economy/jobs-report-strong-hiring-drop-in-unemployment-tests-the-fed-sp-500-rises/,20230505T125000,Economy - Monetary,0.310843,AAPL,0.139669,-0.007825,Neutral

@@ -1,27 +1,29 @@
 import os
 import requests
 from bs4 import BeautifulSoup
-import json
+import csv
+import spacy
 from google.cloud import language_v1
 from google.oauth2.service_account import Credentials
-from googleapiclient.discovery import build
 
 api_key = '9GEPM841QDY4HGPG'
 folder_path = r'C:\Users\karth\AppData\Local\Programs\Python\Python311\Coforge\alphavantage\microsoft'
 
-#  the path
+# Set the path to your service account key file
 keyfile_path = r'C:\Users\karth\AppData\Local\Programs\Python\Python311\Coforge\gcp\flawless-augury-387108-9fce49a6b23c.json'
 
 # Define the scopes for authentication
 SCOPES = ['https://www.googleapis.com/auth/cloud-platform']
 
-# credentials object
+# Create the credentials object
 credentials = Credentials.from_service_account_file(keyfile_path, scopes=SCOPES)
 
-#  client for the Cloud Natural Language API
+# Create a client for the Cloud Natural Language API
 client = language_v1.LanguageServiceClient(credentials=credentials)
 
-url = 'https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=MSFT&apikey=9GEPM841QDY4HGPG'
+nlp = spacy.load("en_core_web_sm")
+
+url = 'https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=MSFT&topics=earnings,merger&acquistions,economy_macro,financial_markets&time_from=20230508T0130&time_to=20230608T0130&apikey=9GEPM841QDY4HGPG'
 r = requests.get(url)
 data = r.json()
 
@@ -53,28 +55,42 @@ for item in items:
         for entity in response.entities
     ]
 
-    # Perform key phrase extraction
-    response = client.analyze_entities(request={'document': document})
-    key_phrases = [
-        {
-            'phrase': phrase.name,
-            'salience': phrase.salience,
-        }
-        for phrase in response.entities
+    # Extract verbs
+    doc = nlp(content)
+    verbs = [
+        token.lemma_
+        for token in doc
+        if token.pos_ == 'VERB'
     ]
 
     extracted_item = {
         'url': url,
-        'content': content,
         'entities': entities,
-        'key_phrases': key_phrases
+        'verbs': verbs,
     }
     extracted_data.append(extracted_item)
 
-json_file_path = os.path.join(folder_path, 'extracted_data_gcp_microsoft.json')
+# Define the output file name
+csv_file_name = 'extracted_data_entity_verbs_may_microsoft_.csv'
 
-with open(json_file_path, 'w') as file:
-    json.dump(extracted_data, file, indent=2)
+csv_file_path = os.path.join(folder_path, csv_file_name)
 
-print('Data extracted')
+with open(csv_file_path, 'w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+    writer.writerow(['url', 'entity', 'salience', 'verb', 'company_name'])
 
+    for item in extracted_data:
+        url = item['url']
+
+        entities = item['entities']
+        for entity in entities:
+            name = entity['name']
+            entity_type = entity['type']
+            salience = entity['salience']
+            writer.writerow([url, name, salience, '', 'Microsoft'])
+
+        verbs = item['verbs']
+        for verb in verbs:
+            writer.writerow([url, '', '', verb, 'Microsoft'])
+
+print('CSV file created')
